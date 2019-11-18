@@ -5,6 +5,8 @@
 ## Getting Started
 
 Guide from: 
+
+[TensorFlow.js](https://www.tensorflow.org/js/tutorials)
 [TensorFlow.js — Making Predictions from 2D Data](https://codelabs.developers.google.com/codelabs/tfjs-training-regression/)
 
 ### Prerequisites

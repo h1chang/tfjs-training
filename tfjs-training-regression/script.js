@@ -198,6 +198,8 @@ async function run() {
 	// Make some predictions using the model and compare them to the
 	// original data
 	testModel(model, data, tensorData);
+	
+	
 }
 
 document.addEventListener('DOMContentLoaded', run);
