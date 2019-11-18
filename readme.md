@@ -1,5 +1,6 @@
 # TensorFlow Javascript training regression example
 
+*learning tensorflow*
 
 ## Getting Started
 
@@ -17,7 +18,7 @@ Guide from:
 
 ## Author
 
-* **Hua Lin** - *learning tensorflow*
+* **Hua Lin**
 
 
 ## License
